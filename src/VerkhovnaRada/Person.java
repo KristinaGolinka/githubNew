@@ -26,7 +26,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "VerkhovnaRada.Person{" +
+        return "VerkhovnaRada.ZooClub.Person{" +
                 "weight=" + weight +
                 ", height=" + height +
                 '}';
